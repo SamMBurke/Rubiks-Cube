@@ -1,6 +1,8 @@
 # Rubiks-Cube
 This is a 2D functioning 3x3 Rubiks Cube that I am developing from scratch.
 
+All code regarding the cube and the game as of right now are in the 'main.cpp' file. All other files are either miscellaneous or blank.
+
 The goal of this project is to further my skills as a software developer, particularily in C++.
 
 As of right now, I have developed a fully functioning Rubiks Cube which responds to commands from the user, moving the faces according how a real 3x3 Rubiks Cube would work.
